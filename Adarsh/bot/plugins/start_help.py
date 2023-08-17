@@ -230,13 +230,13 @@ async def about_handler(bot, message):
 <b>╭━━━━━━━〔ғɪʟᴇ ᴛᴏ ʟɪɴᴋ ʙᴏᴛ〕</b>
 ┃
 ┣⪼<b>ʙᴏᴛ ɴᴀᴍᴇ : <a href='https://t.me/KF_FILE_TO_LINK_BOT'>ғɪʟᴇ ᴛᴏ ʟɪɴᴋ</a></b>
-┣⪼<b>ᴜᴘᴅᴀᴛᴇᴢ : <a href='https://t.me/KannadaFlix6'>ᴍᴡ ᴜᴘᴅᴀᴛᴇᴢ</a></b>
-┣⪼<b>sᴜᴘᴘᴏʀᴛ : <a href='https://t.me/KannadaFlix6'>ᴏᴘᴜs ᴛᴇᴄʜᴢ</a></b>
+┣⪼<b>ᴜᴘᴅᴀᴛᴇᴢ : <a href='https://t.me/KannadaFlix6'>ᴋᴀɴɴᴀᴅᴀꜰʟɪx</a></b>
+┣⪼<b>sᴜᴘᴘᴏʀᴛ : <a href='https://t.me/KannadaFlix6'>ᴋᴀɴɴᴀᴅᴀꜰʟɪx</a></b>
 ┣⪼<b>sᴇʀᴠᴇʀ : ʜᴇʀᴜᴋᴏ</b>
 ┣⪼<b>ʟɪʙʀᴀʀʏ : ᴘʏʀᴏɢʀᴀᴍ</b>
 ┣⪼<b>ʟᴀɴɢᴜᴀɢᴇ: ᴘʏᴛʜᴏɴ 3</b>
 ┣⪼<b>sᴏᴜʀᴄᴇ-ᴄᴏᴅᴇ : <a href='https://t.me/KannadaFlix6'>ғɪʟᴇ ᴛᴏ ʟɪɴᴋ</a></b>
-┣⪼<b>ʙᴀᴄᴋᴜᴘ : <a href='https://t.me/KannadaFlix6'>ᴏᴘᴜs ᴛᴇᴄʜᴢ</a></b>
+┣⪼<b>ʙᴀᴄᴋᴜᴘ : <a href='https://t.me/KannadaFlix6'>ᴋᴀɴɴᴀᴅᴀꜰʟɪx</a></b>
 ┃
 <b>╰━━━━━━━〔ᴘʟᴇᴀsʀ sᴜᴘᴘᴏʀᴛ〕</b>""",
   
